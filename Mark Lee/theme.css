@@ -1,0 +1,95 @@
+h1 {
+	font-family: 'Press Start 2P', cursive;
+	text-align: center;
+	padding-top: 10px;
+}
+
+img {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom: 20px;
+	width: 50%
+}
+
+h2 {
+	font-family: 'Press Start 2P', cursive;
+	text-align: center;
+	font-weight: lighter;
+}
+
+.navbar {
+	overflow: hidden;
+	background-color: #f6e3e7;
+	margin: 15px;
+	text-align: center;
+	width: auto;
+	margin-left: auto;
+	margin-right: auto;
+	}
+	
+.navbar a {
+	
+	font-size: 18px;
+	color: FFF5FC;
+	text-align: center;
+	padding: 15px 18px;
+	text-decoration: none;
+}
+
+.navbar a:hover {
+	background-color: #F5D5D9 ;
+	padding: 19px
+}
+
+h3 {
+	font-family: 'ZCOOL KuaiLe', cursive;
+	text-align: center
+}
+
+
+ul {
+	font-family:'Space Mono', monospace;
+
+}
+
+body {
+	border: 5px #F9F9F9;
+	padding-left: 15%;
+	padding-right: 15%;
+	background-color: #F7F5F4
+}
+table {
+	font-family:'Space Mono', monospace;
+	table-layout: fixed;
+	width: 400px;
+	padding: 300px
+}
+
+#funfact {
+	line-height: 40px;
+	text-align: center;
+	list-style-type: none;
+}
+
+#songwriting {
+	list-style-type: circle;
+	float: left;
+	padding-bottom: 70px;
+}
+
+p {
+	line-height: 30px;
+	margin-left: auto;
+	margin-right: auto;
+	width: 60%;
+	background-color: #F7eeee;
+	padding: 40px;
+	font-family: 'Space Mono', monospace;
+	border: 2px solid #F5D5D9
+}
+
+th {
+	background-color: #F7eeee;
+	padding: 20px;
+}
